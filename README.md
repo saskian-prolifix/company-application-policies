@@ -7,5 +7,7 @@ File structure of each application and their respective policies
 
   
   | - Terms & conditions
+  
   | - EULA (end user license agreement)
+  
   | - Privacy Policy
