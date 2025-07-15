@@ -1,16 +1,15 @@
-Terms and Conditions
-====================
+# Terms and Conditions
 
-Last updated: March 13, 2024
+__Last updated: July 15, 2024__
 
 Please read these terms and conditions carefully before using Our Service.
 
-**Interpretation and Definitions**
+## Interpretation and Definitions
 
-*Interpretation*
+### Interpretation
 The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
 
-*Definitions*
+### Definitions
 For the purposes of these Terms and Conditions:
 
 - **Application:** The software program provided by the Company downloaded by You on any electronic device, named Prolific Diagnostics.
@@ -33,15 +32,15 @@ For the purposes of these Terms and Conditions:
   
 - **You:** The individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
 
-**Acknowledgment**
+## Acknowledgment
 
 These are the Terms and Conditions governing the use of this Service and the agreement that operates between You and the Company. These Terms and Conditions set out the rights and obligations of all users regarding the use of the Service.
 
-**1. License and Usage:**
+### 1. License and Usage:
 
-By using the Prolific Diagnostics Application ("Application"), you agree to a limited, non-exclusive, non-transferable license to use the Application for personal or commercial purposes within the boundaries set forth by these Terms and Conditions.
+By using the PRD Dash Application ("Application"), you agree to a limited, non-exclusive, non-transferable license to use the Application for personal or commercial purposes within the boundaries set forth by these Terms and Conditions.
 
-**2. Restrictions:**
+### 2. Restrictions:
 
 You are expressly prohibited from:
 
@@ -50,7 +49,7 @@ b. Reverse engineering, decompiling, disassembling, or attempting to derive the 
 c. Selling, leasing, sublicensing, or otherwise transferring any rights to the Application.
 d. Distributing or making the Application available for download to third parties.
 
-**3. Ownership:**
+### 3. Ownership:
 
 Prolific Technologies retains all right, title, and interest in and to the Application, including all intellectual property rights.
 
@@ -62,7 +61,7 @@ You represent that you are over the age of 18. The Company does not permit those
 
 Your access to and use of the Service is also conditioned on Your acceptance of and compliance with the Privacy Policy of the Company. Our Privacy Policy describes Our policies and procedures on the collection, use, and disclosure of Your personal information when You use the Application or the Website and tells You about Your privacy rights and how the law protects You. Please read Our Privacy Policy carefully before using Our Service.
 
-**Links to Other Websites**
+#### Links to Other Websites
 
 Our Service may contain links to third-party websites or services that are not owned or controlled by the Company.
 
@@ -70,13 +69,13 @@ The Company has no control over, and assumes no responsibility for, the content,
 
 We strongly advise You to read the terms and conditions and privacy policies of any third-party websites or services that You visit.
 
-**4. Termination:**
+### 4. Termination:
 
 We may terminate or suspend Your access immediately, without prior notice or liability, for any reason whatsoever, including without limitation if You breach these Terms and Conditions.
 
 Upon termination, Your right to use the Service will cease immediately.
 
-**5. Limitation of Liability:**
+### 5. Limitation of Liability:
 
 Notwithstanding any damages that You might incur, the entire liability of the Company and any of its suppliers under any provision of this Terms and Your exclusive remedy for all of the foregoing shall be limited to the amount actually paid by You through the Service or 100 USD if You haven't purchased anything through the Service.
 
@@ -84,7 +83,7 @@ To the maximum extent permitted by applicable law, in no event shall the Company
 
 Some states do not allow the exclusion of implied warranties or limitation of liability for incidental or consequential damages, which means that some of the above limitations may not apply. In these states, each party's liability will be limited to the greatest extent permitted by law.
 
-**6. "AS IS" and "AS AVAILABLE" Disclaimer:**
+### 6. "AS IS" and "AS AVAILABLE" Disclaimer:
 
 The Service is provided to You "AS IS" and "AS AVAILABLE" and with all faults and defects without warranty of any kind. To the maximum extent permitted under applicable law, the Company, on its own behalf and on behalf of its Affiliates and its and their respective licensors and service providers, expressly disclaims all warranties, whether express, implied, statutory or otherwise, with respect to the Service, including all implied warranties of merchantability, fitness for a particular purpose, title and non-infringement, and warranties that may arise out of course of dealing, course of performance, usage or trade practice. Without limitation to the foregoing, the Company provides no warranty or undertaking, and makes no representation of any kind that the Service will meet Your requirements, achieve any intended results, be compatible or work with any other software, applications, systems or services, operate without interruption, meet any performance or reliability standards or be error-free or that any errors or defects can or will be corrected.
 
@@ -92,49 +91,49 @@ Without limiting the foregoing, neither the Company nor any of the company's pro
 
 Some jurisdictions do not allow the exclusion of certain types of warranties or limitations on applicable statutory rights of a consumer, so some or all of the above exclusions and limitations may not apply. But in such a case, the exclusions and limitations set forth in this section shall be applied to the greatest extent enforceable under applicable law.
 
-**7. Governing Law:**
+### 7. Governing Law:
 
 The laws of the Country, excluding its conflicts of law rules, shall govern this Terms and Your use of the Service. Your use of the Application may also be subject to other local, state, national, or international laws.
 
-**8. Disputes Resolution:**
+### 8. Disputes Resolution:
 
 If You have any concern or dispute about the Service, You agree to first try to resolve the dispute informally by contacting the Company.
 
-**9. No Distribution, Modification, or Resale:**
+### 9. No Distribution, Modification, or Resale:
 
 You acknowledge and agree that you shall not distribute, modify, or attempt to resell the Application to any third party.
 
-**For European Union (EU) Users**
+#### For European Union (EU) Users
 
 If You are a European Union consumer, you will benefit from any mandatory provisions of the law of the country in which You are resident.
 
-**United States Legal Compliance**
+#### United States Legal Compliance**
 
 You represent and warrant that (i) You are not located in a country that is subject to the United States government embargo or that has been designated by the United States government as a "terrorist supporting" country, and (ii) You are not listed on any United States government list of prohibited or restricted parties.
 
-**10. Severability and Waiver:**
+### 10. Severability and Waiver:
 
-*Severability*
+#### Severability
 
 If any provision of these Terms is held to be unenforceable or invalid, such provision will be changed and interpreted to accomplish the objectives of such provision to the greatest extent possible under applicable law, and the remaining provisions will continue in full force and effect.
 
-*Waiver*
+#### Waiver
 
 Except as provided herein, the failure to exercise a right or to require performance of an obligation under these Terms shall not affect a party's ability to exercise such right or require such performance at any time thereafter, nor shall the waiver of a breach constitute a waiver of any subsequent breach.
 
-**Translation Interpretation**
+## Translation Interpretation
 
 These Terms and Conditions may have been translated if We have made them available to You on our Service. You agree that the original English text shall prevail in the case of a dispute.
 
-**Changes to These Terms and Conditions**
+## Changes to These Terms and Conditions
 
 We reserve the right, at Our sole discretion, to modify or replace these Terms at any time. If a revision is material We will make reasonable efforts to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at Our sole discretion.
 
 By continuing to access or use Our Service after those revisions become effective, You agree to be bound by the revised terms. If You do not agree to the new terms, in whole or in part, please stop using the website and the Service.
 
-**Contact Us**
+## Contact Us
 
 If you have any questions about these Terms and Conditions, You can contact us:
 
 - By email: matthew@prolifix.co.za
-- By visiting this page on our website: [http://www.prolifix.co.za](http://www.prolifix.co.za)
+- By visiting this page on our [website](http://www.prolifix.co.za)
