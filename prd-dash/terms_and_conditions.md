@@ -107,7 +107,7 @@ You acknowledge and agree that you shall not distribute, modify, or attempt to r
 
 If You are a European Union consumer, you will benefit from any mandatory provisions of the law of the country in which You are resident.
 
-#### United States Legal Compliance**
+#### United States Legal Compliance
 
 You represent and warrant that (i) You are not located in a country that is subject to the United States government embargo or that has been designated by the United States government as a "terrorist supporting" country, and (ii) You are not listed on any United States government list of prohibited or restricted parties.
 
