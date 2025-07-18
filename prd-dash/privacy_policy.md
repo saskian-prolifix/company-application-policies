@@ -69,7 +69,7 @@ The Company retains Your Personal Data for the duration necessary to fulfill out
 
 Your information, including Personal Data, may be processed at the Company's operating offices or other locations. By submitting Your information, You agree to its transfer. The Company ensures that Your data is treated securely, following this Privacy Policy.
 
-### Disclosure of Your Personal Data**
+### Disclosure of Your Personal Data
 
 1. **Business Transactions:** In mergers, acquisitions, or asset sales, Your Personal Data may be transferred with prior notice.
 2. **Law Enforcement:** Under certain circumstances, the Company may disclose Your Personal Data in response to legal obligations or valid requests by public authorities.
