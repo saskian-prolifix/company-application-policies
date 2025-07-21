@@ -12,7 +12,7 @@ The words of which the initial letter is capitalized have meanings defined under
 ### Definitions
 For the purposes of these Terms and Conditions:
 
-- **Application:** The software program provided by the Company downloaded by You on any electronic device, named Prolific Diagnostics.
+- **Application:** The software program provided by the Company downloaded by You on any electronic device, named PRD Dash.
   
 - **Application Store:** The digital distribution service operated and developed by Apple Inc. (Apple App Store) or Google Inc. (Google Play Store) in which the Application has been downloaded.
   
