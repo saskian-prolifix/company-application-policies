@@ -1,7 +1,7 @@
 # Privacy Policy
 
 
-__Last updated: July 15, 2025__
+__Last updated: July 21, 2025__
 
 This Privacy Policy outlines the policies and procedures governing the collection, use, and disclosure of Your information when using the PRD Dash application. It also informs You of Your privacy rights and the legal protections in place.
 
