@@ -1,7 +1,7 @@
 # End-User License Agreement ("Agreement")
 
 
-__Last updated: July 15, 2025__
+__Last updated: July 21, 2025__
 
 Please read this End-User License Agreement carefully before clicking the "I Agree" button, downloading, or using **PRD Dash**.
 
@@ -115,6 +115,6 @@ You may be subject to additional terms and conditions that apply when You use or
 ## Contact Us
 If you have any questions about this Agreement, You can contact us:
 
-  * By email: matthew@prolifix.co.za
+  * By email: prolific.technologies.app@gmail.com
 
   * By visiting this page on our [website](http://www.prolifix.co.za)
