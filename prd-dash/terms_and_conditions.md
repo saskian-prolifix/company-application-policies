@@ -1,6 +1,6 @@
 # Terms and Conditions
 
-__Last updated: July 15, 2025__
+__Last updated: July 21, 2025__
 
 Please read these terms and conditions carefully before using Our Service.
 
@@ -135,5 +135,5 @@ By continuing to access or use Our Service after those revisions become effectiv
 
 If you have any questions about these Terms and Conditions, You can contact us:
 
-- By email: matthew@prolifix.co.za
+- By email: prolific.technologies.app@gmail.com
 - By visiting this page on our [website](http://www.prolifix.co.za)
