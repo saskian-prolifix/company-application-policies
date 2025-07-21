@@ -116,5 +116,5 @@ The **PRD Dash** Application requires certain permissions to enhance and deliver
 
 If You have questions about this Privacy Policy, contact us:
 
-- By email: matthew@prolifix.co.za
+- By email: prolific.technologies.app@gmail.com
 - By visiting this page on our [website](http://www.prolifix.co.za) 
