@@ -15,7 +15,7 @@ For the purposes of this End-User License Agreement:
 
 - **Agreement:** This End-User License Agreement that forms the entire agreement between You and the Company regarding the use of the Application. This Agreement has been created with the help of the [EULA Generator](https://www.termsfeed.com/eula-generator/).
 
-- **Application:** The software program provided by the Company downloaded by You to a Device, named Prolific Diagnostics.
+- **Application:** The software program provided by the Company downloaded by You to a Device, named PRD Dash.
 
 - **Company:** Prolific Technologies, Pretoria, Gauteng.
 
